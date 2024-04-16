@@ -1,0 +1,7 @@
+{
+  "name": "parcial_frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
